@@ -1,10 +1,10 @@
 {
   "repo": {
-    "timestamp": 1724594281000,
+    "timestamp": 1724594383000,
     "version": 20002,
     "name": "Yara's Repo",
     "icon": "icon.png",
-    "address": "https://pmmayero.gitlab.io/luka/fdroid/repo",
+    "address": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo",
     "description": "Repo to hold apps for Yara",
     "mirrors": [
       "https://pmmayero.gitlab.io/luka/fdroid/repo/repo",
