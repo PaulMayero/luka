@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1724591892000,
+    "timestamp": 1724591934000,
     "version": 20002,
     "name": "Yara's Repo",
     "icon": "icon.png",
@@ -15,6 +15,14 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "suggestedVersionCode": "1016050",
+      "license": "Unknown",
+      "name": "Butter",
+      "added": 1724591927000,
+      "packageName": "info.guardianproject.butter.fdroid",
+      "lastUpdated": 1724591934000
+    },
     {
       "suggestedVersionCode": "1017050",
       "license": "Unknown",
@@ -34,6 +42,98 @@
     }
   ],
   "packages": {
+    "info.guardianproject.butter.fdroid": [
+      {
+        "added": 1724591934000,
+        "apkName": "Butter-1.16.apk",
+        "hash": "3c8b57e75f92889cee7e91c6a830122b7f4e447a60da7bc9e62ea633f8b26e6a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "info.guardianproject.butter.fdroid",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 10256985,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.USB_PERMISSION",
+            22
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 1016050,
+        "versionName": "butter_1.16"
+      }
+    ],
     "org.fdroid.fdroid": [
       {
         "added": 1724591777000,
