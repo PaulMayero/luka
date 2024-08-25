@@ -1,5 +1,17 @@
 {
   "repo": {
-    "timestamp": 1724592918000
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo"
+      },
+      {
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo/repo"
+      }
+    ],
+    "timestamp": 1724594182000
   }
 }
