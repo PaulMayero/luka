@@ -12,7 +12,7 @@
         "url": "https://raw.githubusercontent.com/PaulMayero/luka/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1724596722000
+    "timestamp": 1724596922000
   },
   "packages": {
     "com.github.muellerma.nfcreader": {
@@ -63,11 +63,11 @@
     },
     "katrin-sadolin-complete-vocal-technique": {
       "metadata": {
-        "lastUpdated": 1724596722000
+        "lastUpdated": 1724596922000
       },
       "versions": {
         "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d": {
-          "added": 1724596722000
+          "added": 1724596922000
         }
       }
     }
