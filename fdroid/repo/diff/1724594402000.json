@@ -1,5 +1,24 @@
 {
   "repo": {
-    "timestamp": 1724594459000
+    "icon": {
+      "en-US": {
+        "sha256": "b487d427e649d46ee855abfa8180d93bfe44703ca433933f435edfadf48502ab",
+        "size": 856
+      }
+    },
+    "address": "https://pmmayero.gitlab.io/luka/fdroid/repo",
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo"
+      },
+      {
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo/repo"
+      }
+    ],
+    "timestamp": 1724594479000
   }
 }

@@ -9,15 +9,15 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "771e497293e48a0a748f56ca7e5d2b9a4f1bb3ef9370b71b54f875fb72150667",
-        "size": 974
+        "sha256": "b487d427e649d46ee855abfa8180d93bfe44703ca433933f435edfadf48502ab",
+        "size": 856
       }
     },
-    "address": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo",
+    "address": "https://pmmayero.gitlab.io/luka/fdroid/repo",
     "mirrors": [
       {
         "isPrimary": true,
-        "url": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo"
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo"
       },
       {
         "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
@@ -26,7 +26,7 @@
         "url": "https://raw.githubusercontent.com/PaulMayero/ideal-dollop/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1724594459000
+    "timestamp": 1724594479000
   },
   "packages": {
     "info.guardianproject.butter.fdroid": {
