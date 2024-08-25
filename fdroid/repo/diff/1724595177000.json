@@ -1,14 +1,5 @@
 {
   "repo": {
-    "mirrors": [
-      {
-        "isPrimary": true,
-        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo"
-      },
-      {
-        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
-      }
-    ],
     "timestamp": 1724595330000
   },
   "packages": {

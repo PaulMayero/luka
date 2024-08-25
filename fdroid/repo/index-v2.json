@@ -23,7 +23,7 @@
         "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1724595177000
+    "timestamp": 1724595330000
   },
   "packages": {
     "info.guardianproject.butter.fdroid": {
@@ -121,14 +121,14 @@
     "katrin-sadolin-complete-vocal-technique": {
       "metadata": {
         "added": 1724595146000,
-        "lastUpdated": 1724595177000,
+        "lastUpdated": 1724595330000,
         "name": {
           "en-US": "katrin-sadolin-complete-vocal-technique"
         }
       },
       "versions": {
         "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d": {
-          "added": 1724595177000,
+          "added": 1724595330000,
           "file": {
             "name": "/katrin-sadolin-complete-vocal-technique.pdf",
             "sha256": "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d",
