@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1724595330000,
+    "timestamp": 1724595497000,
     "version": 20002,
     "name": "Yara's Repo",
     "icon": "icon.png",
@@ -37,7 +37,7 @@
       "name": "katrin-sadolin-complete-vocal-technique",
       "added": 1724595146000,
       "packageName": "katrin-sadolin-complete-vocal-technique",
-      "lastUpdated": 1724595330000
+      "lastUpdated": 1724595497000
     },
     {
       "suggestedVersionCode": "185",
@@ -144,7 +144,7 @@
     ],
     "katrin-sadolin-complete-vocal-technique": [
       {
-        "added": 1724595330000,
+        "added": 1724595497000,
         "apkName": "katrin-sadolin-complete-vocal-technique.pdf",
         "hash": "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d",
         "hashType": "sha256",
