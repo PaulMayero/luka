@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1724594929000,
+    "timestamp": 1724595147000,
     "version": 20002,
     "name": "Yara's Repo",
     "icon": "icon.png",
@@ -31,6 +31,14 @@
       "added": 1724590339000,
       "packageName": "org.fdroid.fdroid",
       "lastUpdated": 1724591777000
+    },
+    {
+      "suggestedVersionCode": "1724595146",
+      "license": "Unknown",
+      "name": "katrin-sadolin-complete-vocal-technique",
+      "added": 1724595146000,
+      "packageName": "katrin-sadolin-complete-vocal-technique",
+      "lastUpdated": 1724595147000
     },
     {
       "suggestedVersionCode": "185",
@@ -133,6 +141,18 @@
         ],
         "versionCode": 1016050,
         "versionName": "butter_1.16"
+      }
+    ],
+    "katrin-sadolin-complete-vocal-technique": [
+      {
+        "added": 1724595147000,
+        "apkName": "katrin-sadolin-complete-vocal-technique.pdf",
+        "hash": "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d",
+        "hashType": "sha256",
+        "packageName": "katrin-sadolin-complete-vocal-technique",
+        "size": 3356240,
+        "versionCode": 1724595146,
+        "versionName": "2024-08-25"
       }
     ],
     "org.fdroid.fdroid": [
