@@ -1,0 +1,214 @@
+{
+  "repo": {
+    "timestamp": 1724591784000,
+    "version": 20002,
+    "name": "Yara's Repo",
+    "icon": "icon.png",
+    "address": "https://pmmayero.gitlab.io/luka/fdroid/repo",
+    "description": "Repo to hold apps for Yara",
+    "mirrors": [
+      "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "1017050",
+      "license": "Unknown",
+      "name": "F-Droid",
+      "added": 1724590339000,
+      "packageName": "org.fdroid.fdroid",
+      "lastUpdated": 1724591777000
+    },
+    {
+      "suggestedVersionCode": "185",
+      "license": "Unknown",
+      "name": "OpenVK",
+      "added": 1724590421000,
+      "icon": "uk.openvk.android.legacy.185.png",
+      "packageName": "uk.openvk.android.legacy",
+      "lastUpdated": 1724591784000
+    }
+  ],
+  "packages": {
+    "org.fdroid.fdroid": [
+      {
+        "added": 1724591777000,
+        "apkName": "F-Droid1.apk",
+        "hash": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "org.fdroid.fdroid",
+        "sig": "9063aaadfff9cfd811a9c72fb5012f28",
+        "signer": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab",
+        "size": 10646430,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            32
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.USB_PERMISSION",
+            22
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 1017050,
+        "versionName": "1.17.0"
+      }
+    ],
+    "uk.openvk.android.legacy": [
+      {
+        "added": 1724591784000,
+        "apkName": "legacy.apk",
+        "hash": "ddfd01e9c56d75c52d838f787e70aef84ea79e3b0a382a548748a96519820694",
+        "hashType": "sha256",
+        "minSdkVersion": 7,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "uk.openvk.android.legacy",
+        "sig": "3647b1be320fb4e99bd88889cddc69ee",
+        "signer": "9902ce45a9061cadddc56fc3a72291b3a3193574af0eba7c1639c5db77a4d9ae",
+        "size": 20482265,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 185,
+        "versionName": "1.1.185-beta"
+      }
+    ]
+  }
+}

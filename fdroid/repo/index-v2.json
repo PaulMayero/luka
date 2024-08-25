@@ -1,0 +1,218 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Yara's Repo"
+    },
+    "description": {
+      "en-US": "Repo to hold apps for Yara"
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "b487d427e649d46ee855abfa8180d93bfe44703ca433933f435edfadf48502ab",
+        "size": 856
+      }
+    },
+    "address": "https://pmmayero.gitlab.io/luka/fdroid/repo",
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo"
+      },
+      {
+        "url": "https://pmmayero.gitlab.io/luka/fdroid/repo/repo"
+      }
+    ],
+    "timestamp": 1724591784000
+  },
+  "packages": {
+    "org.fdroid.fdroid": {
+      "metadata": {
+        "added": 1724590339000,
+        "lastUpdated": 1724591777000,
+        "name": {
+          "en-US": "F-Droid"
+        },
+        "preferredSigner": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
+      },
+      "versions": {
+        "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75": {
+          "added": 1724591777000,
+          "file": {
+            "name": "/F-Droid1.apk",
+            "sha256": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
+            "size": 10646430
+          },
+          "manifest": {
+            "versionName": "1.17.0",
+            "versionCode": 1017050,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADMIN",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.USB_PERMISSION",
+                "maxSdkVersion": 22
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.NFC"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ],
+            "usesPermissionSdk23": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "uk.openvk.android.legacy": {
+      "metadata": {
+        "added": 1724590421000,
+        "lastUpdated": 1724591784000,
+        "name": {
+          "en-US": "OpenVK"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/uk.openvk.android.legacy.185.png",
+            "sha256": "ae80cb984ac5c60c27c0e5304a8ef75dd16102472fc0485a5aca3706fb5dd8ec",
+            "size": 2200
+          }
+        },
+        "preferredSigner": "9902ce45a9061cadddc56fc3a72291b3a3193574af0eba7c1639c5db77a4d9ae"
+      },
+      "versions": {
+        "ddfd01e9c56d75c52d838f787e70aef84ea79e3b0a382a548748a96519820694": {
+          "added": 1724591784000,
+          "file": {
+            "name": "/legacy.apk",
+            "sha256": "ddfd01e9c56d75c52d838f787e70aef84ea79e3b0a382a548748a96519820694",
+            "size": 20482265
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.1.185-beta",
+            "versionCode": 185,
+            "usesSdk": {
+              "minSdkVersion": 7,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "9902ce45a9061cadddc56fc3a72291b3a3193574af0eba7c1639c5db77a4d9ae"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.MANAGE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
