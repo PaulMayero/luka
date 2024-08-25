@@ -1,15 +1,15 @@
 {
   "repo": {
-    "timestamp": 1724596302000
+    "timestamp": 1724596340000
   },
   "packages": {
     "katrin-sadolin-complete-vocal-technique": {
       "metadata": {
-        "lastUpdated": 1724596302000
+        "lastUpdated": 1724596340000
       },
       "versions": {
         "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d": {
-          "added": 1724596302000
+          "added": 1724596340000
         }
       }
     }
