@@ -1,15 +1,60 @@
 {
   "repo": {
-    "timestamp": 1724596922000
+    "timestamp": 1724597090000
   },
   "packages": {
+    "info.guardianproject.checkey": {
+      "metadata": {
+        "added": 1724597086000,
+        "lastUpdated": 1724597090000,
+        "name": {
+          "en-US": "Checkey"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/info.guardianproject.checkey.101.png",
+            "sha256": "2801cd7cdb2aa5f9ce5e2b68560b8aae148e06c5bfb71878a55f9d305949ac76",
+            "size": 2297
+          }
+        },
+        "preferredSigner": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a"
+      },
+      "versions": {
+        "2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd": {
+          "added": 1724597090000,
+          "file": {
+            "name": "/check-key.apk",
+            "sha256": "2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd",
+            "size": 967083
+          },
+          "manifest": {
+            "versionName": "0.1.1",
+            "versionCode": 101,
+            "usesSdk": {
+              "minSdkVersion": 8,
+              "targetSdkVersion": 21
+            },
+            "signer": {
+              "sha256": [
+                "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    },
     "katrin-sadolin-complete-vocal-technique": {
       "metadata": {
-        "lastUpdated": 1724596922000
+        "lastUpdated": 1724597090000
       },
       "versions": {
         "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d": {
-          "added": 1724596922000
+          "added": 1724597090000
         }
       }
     }

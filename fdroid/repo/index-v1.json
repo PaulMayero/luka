@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1724596922000,
+    "timestamp": 1724597090000,
     "version": 20002,
     "name": "Yara's Repo",
     "icon": "icon.png",
@@ -25,6 +25,15 @@
       "lastUpdated": 1724591934000
     },
     {
+      "suggestedVersionCode": "101",
+      "license": "Unknown",
+      "name": "Checkey",
+      "added": 1724597086000,
+      "icon": "info.guardianproject.checkey.101.png",
+      "packageName": "info.guardianproject.checkey",
+      "lastUpdated": 1724597090000
+    },
+    {
       "suggestedVersionCode": "1017050",
       "license": "Unknown",
       "name": "F-Droid",
@@ -38,7 +47,7 @@
       "name": "katrin-sadolin-complete-vocal-technique",
       "added": 1724595146000,
       "packageName": "katrin-sadolin-complete-vocal-technique",
-      "lastUpdated": 1724596922000
+      "lastUpdated": 1724597090000
     },
     {
       "suggestedVersionCode": "1",
@@ -180,9 +189,31 @@
         "versionName": "butter_1.16"
       }
     ],
+    "info.guardianproject.checkey": [
+      {
+        "added": 1724597090000,
+        "apkName": "check-key.apk",
+        "hash": "2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "info.guardianproject.checkey",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 967083,
+        "targetSdkVersion": 21,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 101,
+        "versionName": "0.1.1"
+      }
+    ],
     "katrin-sadolin-complete-vocal-technique": [
       {
-        "added": 1724596922000,
+        "added": 1724597090000,
         "apkName": "katrin-sadolin-complete-vocal-technique.pdf",
         "hash": "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d",
         "hashType": "sha256",
